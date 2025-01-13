@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: black;
+} */
+}
+
+#number{
+    bottom: 10px;
+    left: 50px;
+}
+
+#heading{
+    text-align: center;
+    margin-bottom: 30px;
+    color: wheat;
+    margin-bottom: 100px;
+}
+
+.input{
+
+display: flex;
+justify-content: center;
+}
+
+#pokedetail{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
